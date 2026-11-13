@@ -1,0 +1,5 @@
+Refactor the retry logic in worker.py and queue.py so failed jobs are handled properly, then:
+1. update tests/test_worker.py
+2. deploy to staging with docker and check the logs in the browser
+3. verify nothing regresses and run the tests
+Clean up anything else that looks off, etc.

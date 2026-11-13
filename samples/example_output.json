@@ -1,0 +1,25 @@
+{
+  "score": 64,
+  "tier": "hard",
+  "recommended_model_tier": "large",
+  "budget": {
+    "tokens": 104000,
+    "minutes": 40.4
+  },
+  "features": {
+    "length": 47,
+    "files": 3,
+    "steps": 4,
+    "ambiguity": 3,
+    "tools": 3,
+    "verify": 4
+  },
+  "points": {
+    "length": 2.82,
+    "files": 10.0,
+    "steps": 13.33,
+    "ambiguity": 11.25,
+    "tools": 11.25,
+    "verify": 15.0
+  }
+}

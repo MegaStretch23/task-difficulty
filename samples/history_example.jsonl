@@ -1,0 +1,8 @@
+{"task": "Rename the variable tmp to buffer in utils.py.", "tokens": 9000, "minutes": 2}
+{"task": "Fix the typo in README.md", "tokens": 6000, "minutes": 1}
+{"task": "Add a --verbose flag to cli.py and update tests/test_cli.py, then run the tests", "tokens": 52000, "minutes": 14}
+{"task": "Update config.yaml and settings.py so the timeout is 30 seconds. Verify with pytest.", "tokens": 41000, "minutes": 11}
+{"task": "1. refactor db.py\n2. migrate the database schema with sql\n3. deploy with docker\n4. verify and run the tests", "tokens": 160000, "minutes": 55}
+{"task": "Scrape the pricing page in the browser, then log in and download the csv, clean up whatever looks off, etc.", "tokens": 120000, "minutes": 48}
+{"task": "Improve the error handling somehow in api.py, server.py and client.py, then test it properly", "tokens": 98000, "minutes": 30}
+{"task": "Delete the unused import in main.py", "tokens": 7000, "minutes": 1}
